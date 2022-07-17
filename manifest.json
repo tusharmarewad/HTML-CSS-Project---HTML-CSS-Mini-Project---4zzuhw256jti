@@ -1,0 +1,11 @@
+{
+    "version": "1.0",
+    "manifest_version": 3,
+    "name": "stop-watch",
+    "action": {
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
