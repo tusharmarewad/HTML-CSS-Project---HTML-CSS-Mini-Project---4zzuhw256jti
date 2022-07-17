@@ -10,10 +10,11 @@
   }
 
   body {
-      background-color: #F9F9F9;
-      font-family: arial;
-      place-items: center;
-      display: grid;
+    background: linear-gradient(320deg, #fa4be0, #5e73fa);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
   }
 
   #stopwatch {
